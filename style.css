@@ -1,0 +1,58 @@
+/* this is used for id "#" */
+#h1{
+    font-size:small;
+}
+
+/* this is used for class "." */
+.h1{
+    font-size: larger;
+}
+
+
+.h2{
+    font-size: 80px;
+    font-weight: 100;
+    font-family:'Courier New', Courier, monospace
+}
+
+
+.h3{
+    text-align: center;
+}
+
+.link{
+    font-size: 12px;
+    margin: 30px 15px 20px 10px ;
+    padding: 30px;
+    background-color: aquamarine;
+    width: 40%;
+}
+.p{
+    background-color: bisque;
+}
+
+.link a{
+    color: brown;
+    text-decoration: none;
+    background-color: aqua;
+}
+
+
+
+.nav-cont{
+    display: flex;
+justify-content: space-between;
+}
+
+.btn{
+    margin: 5px;
+}
+
+.logo-nav{
+    margin-right: 60px;
+}
+
+.div-cont{
+    display: flex;
+    background-color: antiquewhite;
+}
